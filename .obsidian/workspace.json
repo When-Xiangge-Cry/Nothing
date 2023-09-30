@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病.md",
+                "file": "世界观/病.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病.md",
+                "file": "世界观/病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "病.md",
+                "file": "世界观/病.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病.md"
+                "file": "世界观/病.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +148,8 @@
   },
   "active": "c2eb193c30e15f53",
   "lastOpenFiles": [
-    "病.md",
+    "世界观/祥阁学校.md",
+    "世界观/病.md",
     "世界观"
   ]
 }
