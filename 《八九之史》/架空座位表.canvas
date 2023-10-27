@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"ea35beec7eef1cb7","type":"text","text":"刘硕","x":-112,"y":-2,"width":250,"height":60},
+		{"id":"d49fd035d0ea57eb","type":"text","text":"思博","x":-112,"y":120,"width":250,"height":60},
+		{"id":"201b7f004c09f18a","type":"text","text":"锦程","x":-112,"y":240,"width":250,"height":60},
+		{"id":"6b3cacb4a53216ae","type":"text","text":"这谁看不清","x":-112,"y":360,"width":250,"height":60},
+		{"id":"597d907d95d8bb92","type":"text","text":"泽宇大将军","x":-112,"y":480,"width":250,"height":60},
+		{"id":"eb5a685cc7d4cdd4","x":-112,"y":600,"width":250,"height":60,"type":"text","text":"元硕"},
+		{"id":"b5df503ef10f612d","x":-112,"y":720,"width":250,"height":60,"type":"text","text":"村民"},
+		{"id":"fb3526484d2fe60a","x":-112,"y":840,"width":250,"height":60,"type":"text","text":"杜狗"},
+		{"id":"9b2f3d31e54c9d30","x":-112,"y":960,"width":250,"height":60,"type":"text","text":"聪聪"},
+		{"id":"6e3a97357d91e180","x":320,"y":-2,"width":250,"height":60,"type":"text","text":"李雨旋"},
+		{"id":"9326684ef58a9e81","x":320,"y":115,"width":250,"height":60,"type":"text","text":"侯哥"}
+	],
+	"edges":[]
+}
