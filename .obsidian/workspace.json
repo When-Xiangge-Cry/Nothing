@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +149,10 @@
   },
   "active": "97dbf4a2c8cb751a",
   "lastOpenFiles": [
-    "世界观/病.md",
+    "世界观/祥阁学校.md",
     "世界观/黑广播致病论.md",
     "瞎写剧情/2023-10-27.md",
-    "世界观/祥阁学校.md",
+    "世界观/病.md",
     "2023-10-27.md",
     "《八九之史》/架空座位表.canvas",
     "2023-10-14.md",
