@@ -1,6 +1,8 @@
 {
   "accentColor": "#ad5050",
   "interfaceFontFamily": "HarmonyOS Sans SC",
-  "baseFontSize": 18,
-  "translucency": false
+  "baseFontSize": 14,
+  "translucency": false,
+  "textFontFamily": "HarmonyOS Sans SC",
+  "monospaceFontFamily": "HarmonyOS Sans SC"
 }

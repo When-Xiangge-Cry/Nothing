@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"45e7378fada25601","type":"group","x":-233,"y":-480,"width":3313,"height":2080,"label":"实际客观时间"},
+		{"id":"0a6feddc01b8c88b","type":"text","text":"2003年（祥阁建校）","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"038d4e4f35e76013","type":"text","text":"2003/1 第一批教职工签了职工入职","x":-195,"y":140,"width":390,"height":72},
+		{"id":"c116e73557cbb1f7","type":"text","text":"2003/8 祥阁建校","x":-125,"y":300,"width":250,"height":60},
+		{"id":"7d40859308231b7b","type":"text","text":"2004年","x":-125,"y":440,"width":250,"height":60},
+		{"id":"bc860119f5d69dbd","type":"text","text":"2023/12","x":1040,"y":-30,"width":250,"height":60},
+		{"id":"9a6d7bbe5ad72d7e","type":"text","text":"2023/9月","x":480,"y":-30,"width":250,"height":60},
+		{"id":"075f3c79ee39432d","type":"text","text":"疫情几年，开了秋季的运动会","x":480,"y":117,"width":250,"height":59},
+		{"id":"7bf260facd9f51a7","type":"text","text":"早上广播站发癫放励志广播","x":987,"y":121,"width":357,"height":79},
+		{"id":"2c5b1274b8d5600c","type":"text","text":"主角7：46到校","x":1460,"y":131,"width":250,"height":60},
+		{"id":"be0c6813862d5cdc","type":"text","text":"","x":1040,"y":300,"width":250,"height":60},
+		{"id":"f0e78f08e1d8743a","x":3260,"y":820,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"e829888380007ec4","fromNode":"0a6feddc01b8c88b","fromSide":"bottom","toNode":"038d4e4f35e76013","toSide":"top"},
+		{"id":"c82ae420e072431a","fromNode":"038d4e4f35e76013","fromSide":"bottom","toNode":"c116e73557cbb1f7","toSide":"top"},
+		{"id":"2ef29399e865d260","fromNode":"c116e73557cbb1f7","fromSide":"bottom","toNode":"7d40859308231b7b","toSide":"top"},
+		{"id":"0a505c3edeff96e7","fromNode":"9a6d7bbe5ad72d7e","fromSide":"bottom","toNode":"075f3c79ee39432d","toSide":"top"},
+		{"id":"1b00ce54901b6cc0","fromNode":"bc860119f5d69dbd","fromSide":"bottom","toNode":"7bf260facd9f51a7","toSide":"top"},
+		{"id":"8ca158fe47f924f7","fromNode":"7bf260facd9f51a7","fromSide":"bottom","toNode":"be0c6813862d5cdc","toSide":"top"},
+		{"id":"4a6d52c023672bf3","fromNode":"7bf260facd9f51a7","fromSide":"right","toNode":"2c5b1274b8d5600c","toSide":"left"}
+	]
+}
