@@ -4,5 +4,6 @@
   "baseFontSize": 14,
   "translucency": false,
   "textFontFamily": "HarmonyOS Sans SC",
-  "monospaceFontFamily": "HarmonyOS Sans SC"
+  "monospaceFontFamily": "HarmonyOS Sans SC",
+  "theme": "system"
 }

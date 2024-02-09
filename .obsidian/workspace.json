@@ -6,6 +6,7 @@
       {
         "id": "60c691e14b86f751",
         "type": "tabs",
+        "dimension": 57.07964601769911,
         "children": [
           {
             "id": "9dfadf0f92243b6c",
@@ -15,13 +16,20 @@
               "state": {
                 "file": "2023滚出去/整理.canvas",
                 "viewState": {
-                  "x": 3315.6554030573952,
-                  "y": -504.14460893401065,
-                  "zoom": -1.0397211497908503
+                  "x": 1150,
+                  "y": 1320,
+                  "zoom": -2.5993054903647006
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "63271dffc1e9f61f",
+        "type": "tabs",
+        "dimension": 42.92035398230089,
+        "children": [
           {
             "id": "4ec0b72340b90e14",
             "type": "leaf",
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023滚出去/老b啊牢b.md",
+                "file": "2023滚出去/整理.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023滚出去/老b啊牢b.md",
+                "file": "2023滚出去/整理.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023滚出去/老b啊牢b.md"
+                "file": "2023滚出去/整理.canvas"
               }
             }
           }
@@ -162,11 +170,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c0ac79f0192648cf",
+  "active": "9dfadf0f92243b6c",
   "lastOpenFiles": [
-    "2023滚出去/老b啊牢b.md",
-    "2023滚出去/整理.canvas",
     "2023滚出去/老b啊牢b(完整版1).md",
+    "2023滚出去/整理.canvas",
+    "2023滚出去/老b啊牢b.md",
     "梳理.canvas",
     "世界观/黑广播致病论.md",
     "2023滚出去",

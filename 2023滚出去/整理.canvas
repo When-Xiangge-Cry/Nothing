@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"77bf5b998a9f8f86","x":-982,"y":1520,"width":1186,"height":1280,"type":"group","label":"绪"},
 		{"id":"6be65d3a22eeae9e","type":"text","text":"朋友A\n两人从小学相识，初中分班离得远，关系变淡，交流减少，但是留着没有舍弃关系。\n主角以为朋友A坠楼身亡，但实际上朋友A啥事没有，但是与主角很少见面，导致主角一直隐约觉得他死了。\n最后主角看到朋友A的背影，但是主角没有过去，随即主角这边算是与朋友A单方面分1/2道扬1/2镳","x":-960,"y":-400,"width":296,"height":460},
 		{"id":"2712713a79a06092","type":"text","text":"朋友B\n","x":-982,"y":160,"width":340,"height":680},
 		{"id":"5d50b644716fa27e","type":"text","text":"祥阁鸣泣之时·2023\n","x":1194,"y":-200,"width":250,"height":60},
@@ -36,7 +37,9 @@
 		{"id":"db1e21ecec324449","type":"text","text":"老B  ~~牢b~~","x":2570,"y":-51,"width":250,"height":60},
 		{"id":"a51a49bab8381337","type":"text","text":"2003年建校初期的学生","x":2570,"y":130,"width":250,"height":60},
 		{"id":"3aebd32ffab39ff4","type":"text","text":"","x":3026,"y":-53,"width":250,"height":60},
-		{"id":"043aac372037e26f","type":"file","file":"2023滚出去/老b啊牢b.md","x":2700,"y":-1320,"width":880,"height":1060}
+		{"id":"25b46803337b0df5","x":-397,"y":820,"width":277,"height":60,"type":"text","text":"你说得对，但是祥鸣人均精神大病\n不奇怪吧"},
+		{"id":"a8bbe84616b25586","x":-800,"y":1620,"width":295,"height":140,"type":"text","text":"一个医生喝大了，半夜酒驾（还是醉驾）把一个中考完的初四学生创成植物人\n-政治老师\n"},
+		{"id":"bf5a0edf7bab4c40","x":-800,"y":1920,"width":380,"height":160,"type":"text","text":"Intro中，2003/8的一天中午，\n一个可能是孤儿的小崽子饿晕在一号门对面，随后出幻觉不明不白的被车创死了。\n孤儿曾经和一个朋友在一起玩过，"}
 	],
 	"edges":[
 		{"id":"09684cc7a168b569","fromNode":"197265b3910789fb","fromSide":"left","toNode":"6be65d3a22eeae9e","toSide":"right"},
@@ -74,6 +77,6 @@
 		{"id":"2eefee24b73a22bd","fromNode":"f7413665213c46ca","fromSide":"right","toNode":"74c43250b2b15142","toSide":"left"},
 		{"id":"bc3e6cce30f728b7","fromNode":"a51a49bab8381337","fromSide":"top","toNode":"db1e21ecec324449","toSide":"bottom"},
 		{"id":"a07fd1b8d649bbba","fromNode":"db1e21ecec324449","fromSide":"right","toNode":"3aebd32ffab39ff4","toSide":"left"},
-		{"id":"21548ae75cf6cdc0","fromNode":"043aac372037e26f","fromSide":"bottom","toNode":"db1e21ecec324449","toSide":"top"}
+		{"id":"3bf877bee1b162a2","fromNode":"25b46803337b0df5","fromSide":"right","toNode":"8693f34c8feef25b","toSide":"left"}
 	]
 }
