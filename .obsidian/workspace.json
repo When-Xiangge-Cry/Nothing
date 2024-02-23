@@ -6,37 +6,34 @@
       {
         "id": "60c691e14b86f751",
         "type": "tabs",
-        "dimension": 57.07964601769911,
+        "dimension": 72.71386430678466,
         "children": [
           {
-            "id": "9dfadf0f92243b6c",
+            "id": "7664a14e8c103ff3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2023滚出去/整理.canvas",
-                "viewState": {
-                  "x": 1150,
-                  "y": 1320,
-                  "zoom": -2.5993054903647006
-                }
+                "file": "瞎写剧情/2023-02-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "63271dffc1e9f61f",
+        "id": "37dc854a9b206d59",
         "type": "tabs",
-        "dimension": 42.92035398230089,
+        "dimension": 27.286135693215343,
         "children": [
           {
-            "id": "4ec0b72340b90e14",
+            "id": "c470ed2f3486230e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023滚出去/老b啊牢b(完整版1).md",
+                "file": "临时文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023滚出去/整理.canvas",
+                "file": "瞎写剧情/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023滚出去/整理.canvas",
+                "file": "瞎写剧情/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023滚出去/整理.canvas"
+                "file": "瞎写剧情/2023-02-23.md"
               }
             }
           }
@@ -170,19 +167,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9dfadf0f92243b6c",
+  "active": "7664a14e8c103ff3",
   "lastOpenFiles": [
-    "2023滚出去/老b啊牢b(完整版1).md",
-    "2023滚出去/整理.canvas",
+    "临时文件.md",
+    "瞎写剧情/2023-02-23.md",
+    "2023滚出去/具体剧情/1-intro.md",
     "2023滚出去/老b啊牢b.md",
+    "瞎写剧情/2023-11-3.md",
+    "2023滚出去/具体剧情",
+    "瞎写剧情/2023-10-27.md",
     "梳理.canvas",
+    "朋友艾草的/剧情.md",
+    "2023滚出去/整理.canvas",
+    "2023滚出去/老b啊牢b(完整版1).md",
     "世界观/黑广播致病论.md",
     "2023滚出去",
-    "未命名.md",
-    "瞎写剧情/2023-11-3.md",
-    "朋友艾草的/剧情.md",
     "朋友艾草的",
-    "瞎写剧情/2023-10-27.md",
     "世界观/病.md",
     "《八九之史》/架空座位表.canvas",
     "世界观/祥阁学校.md",
