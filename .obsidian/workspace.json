@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e5ad5ba836cb522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞎写剧情/2024-02-27'28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "37dc854a9b206d59",
@@ -31,11 +44,14 @@
             "id": "c470ed2f3486230e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "临时文件.md",
-                "mode": "source",
-                "source": false
+                "file": "2023滚出去/整理.canvas",
+                "viewState": {
+                  "x": 1150,
+                  "y": -1037.8767567567568,
+                  "zoom": -3.664113785992799
+                }
               }
             }
           }
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "瞎写剧情/2023-02-23.md",
+                "file": "瞎写剧情/2024-02-27'28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "瞎写剧情/2023-02-23.md",
+                "file": "瞎写剧情/2024-02-27'28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "瞎写剧情/2023-02-23.md"
+                "file": "瞎写剧情/2024-02-27'28.md"
               }
             }
           }
@@ -167,18 +183,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7664a14e8c103ff3",
+  "active": "3e5ad5ba836cb522",
   "lastOpenFiles": [
+    "2023滚出去/整理.canvas",
+    "瞎写剧情/2024-02-27'28.md",
+    "梳理.canvas",
     "临时文件.md",
     "瞎写剧情/2023-02-23.md",
+    "README.md",
     "2023滚出去/具体剧情/1-intro.md",
     "2023滚出去/老b啊牢b.md",
     "瞎写剧情/2023-11-3.md",
     "2023滚出去/具体剧情",
     "瞎写剧情/2023-10-27.md",
-    "梳理.canvas",
     "朋友艾草的/剧情.md",
-    "2023滚出去/整理.canvas",
     "2023滚出去/老b啊牢b(完整版1).md",
     "世界观/黑广播致病论.md",
     "2023滚出去",
